@@ -1,2 +1,1 @@
-Title : Crop Production Analysis in India
-Domain : Agriculture
+Crop Production Analysis in India (Agriculture)
